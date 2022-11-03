@@ -24,6 +24,11 @@ April 2022 [[current version]](https://avdluduvice.github.io/files/deSouza_Luduv
 **Adjustment Costs, Financial Constraints and the Persistence of Misallocation in China**, *with Gustavo Camilo*   
 February 2019 [[current version]](https://avdluduvice.github.io/files/misallocation_Camilo_and_Luduvice_2018.pdf) 
 
+## Work in Progress
+
+**Optimal Fiscal Policy with Many Taxes**
+*with Daniel Carroll and Eric Young*
+November 2022.
 
 ## Publications
 
