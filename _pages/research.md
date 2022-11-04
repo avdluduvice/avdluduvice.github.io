@@ -9,17 +9,17 @@ author_profile: true
 ## Working Papers
 
 **The Macroeconomic Effects of Universal Basic Income Programs**   
-September 2021 [[current version]](https://avdluduvice.github.io/files/UBI_Luduvice_Sep21.pdf) [[Cleveland Fed WP]](https://www.clevelandfed.org/newsroom-and-events/publications/working-papers/2021-working-papers/wp-2121-the-macroeconomic-effects-of-universal-basic-income-programs)   
+September 2021 [[current version]](https://avdluduvice.github.io/files/UBI_Luduvice_Sep21.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202121)   
 *Featured:* [Jain Family Institute](https://www.jainfamilyinstitute.org/projects/parts/a-critical-review-of-macroeconomic-models-for-guaranteed-income-and-the-child-tax-credit/)
 
 
 **The Welfare Costs of Business Cycles Unveiled: Measuring the Extent of Stabilization Policies**,      
 *with [Fernando Barros Jr.](https://sites.google.com/view/fernandobarros/home?authuser=0) and [Fábio Gomes](https://sites.google.com/site/fabiogomesecon/)*   
-April 2022 [[current version]](https://avdluduvice.github.io/files/Barros_etal_CEF_April22.pdf) [[Cleveland Fed WP]](https://www.clevelandfed.org/newsroom-and-events/publications/working-papers/2022-working-papers/wp2114r-the-welfare-costs-of-business-cycles-unveiled)   
+April 2022 [[current version]](https://avdluduvice.github.io/files/Barros_etal_CEF_April22.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202114r)   
 
 
 **Optimal Unemployment Insurance Requirements**, *with [Gustavo de Souza](https://www.gustavodesouza.net/home)*   
-April 2022 [[current version]](https://avdluduvice.github.io/files/deSouza_Luduvice_OptimalUIR_April22.pdf) [[Cleveland Fed WP]](https://www.clevelandfed.org/newsroom-and-events/publications/working-papers/2022-working-papers/wp-2210-optimal-unemployment-insurance-requirements)   
+April 2022 [[current version]](https://avdluduvice.github.io/files/deSouza_Luduvice_OptimalUIR_April22.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202210)   
 
 **Adjustment Costs, Financial Constraints and the Persistence of Misallocation in China**, *with Gustavo Camilo*   
 February 2019 [[current version]](https://avdluduvice.github.io/files/misallocation_Camilo_and_Luduvice_2018.pdf) 
