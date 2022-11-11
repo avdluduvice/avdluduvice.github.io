@@ -26,7 +26,7 @@ February 2019 [[current version]](https://avdluduvice.github.io/files/misallocat
 
 ## Work in Progress
 
-**Optimal Fiscal Policy with Many Taxes**,
+**Optimal Fiscal Reform with Many Taxes**,
 *with [Daniel Carroll](https://sites.google.com/site/dcarrolleconomics/home) and [Eric Young](https://sites.google.com/view/ericyoung/home)*   
 November 2022 *(Draft coming soon!)*
 
