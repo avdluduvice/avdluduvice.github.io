@@ -4,7 +4,10 @@ main:
     url: /research/
 
   - title: "Policy"
-    url: /policy/    
+    url: /policy/ 
+    
+  - title: "Discussions"
+    url: /discussions/         
 
   - title: "Teaching"
     url: /teaching/    
