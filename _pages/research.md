@@ -31,5 +31,6 @@ February 2019 [[current version]](https://avdluduvice.github.io/files/misallocat
 
 ## Publications
 
-**[Modeling Default Probabilities: The Case of Brazil](https://www.sciencedirect.com/science/article/abs/pii/S1042443111000084?via%3Dihub)**, *with [Benjamin Tabak](https://scholar.google.com/citations?user=OHSmd3AAAAAJ&hl=en) and [Daniel O. Cajueiro](https://sites.google.com/site/danielocajueiro/home)*   
+**[Modeling Default Probabilities: The Case of Brazil](https://www.sciencedirect.com/science/article/abs/pii/S1042443111000084?via%3Dihub)**,   
+*with [Benjamin Tabak](https://scholar.google.com/citations?user=OHSmd3AAAAAJ&hl=en) and [Daniel O. Cajueiro](https://sites.google.com/site/danielocajueiro/home)*   
 Journal of International Financial Markets, Institutions and Money, Volume 21, Issue 4, p. 513-534, 2011.   
