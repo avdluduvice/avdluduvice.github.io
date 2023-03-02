@@ -12,9 +12,9 @@ author_profile: true
 *with [Daniel Carroll](https://sites.google.com/site/dcarrolleconomics/home) and [Eric Young](https://sites.google.com/view/ericyoung/home)*    
 February 2023 [[current version]](https://avdluduvice.github.io/files/Carroll_etal_OptFiscalReform_Feb23.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202307)   
 
-**The Welfare Costs of Business Cycles Unveiled: Measuring the Extent of Stabilization Policies**,      
+**The Welfare Costs of Business Cycles Unveiled: Measuring the Extent of Stabilization Policies**, *(new version!)*        
 *with [Fernando Barros Jr.](https://sites.google.com/view/fernandobarros/home?authuser=0) and [Fábio Gomes](https://sites.google.com/site/fabiogomesecon/)*   
-April 2022 [[current version]](https://avdluduvice.github.io/files/Barros_etal_CEF_April22.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202114r)   
+March 2023 [[current version]](https://avdluduvice.github.io/files/Barros_etal_CEF_March23.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202114r2)   
 
 **Optimal Unemployment Insurance Requirements**,   
 *with [Gustavo de Souza](https://www.gustavodesouza.net/home)*   
