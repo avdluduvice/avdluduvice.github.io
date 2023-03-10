@@ -12,13 +12,13 @@ author_profile: true
 *with [Daniel Carroll](https://sites.google.com/site/dcarrolleconomics/home) and [Eric Young](https://sites.google.com/view/ericyoung/home)*    
 February 2023 [[current version]](https://avdluduvice.github.io/files/Carroll_etal_OptFiscalReform_Feb23.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202307)   
 
-**The Welfare Costs of Business Cycles Unveiled: Measuring the Extent of Stabilization Policies**, *(new version!)*        
+**The Welfare Costs of Business Cycles Unveiled: Measuring the Extent of Stabilization Policies**, *(new version)*        
 *with [Fernando Barros Jr.](https://sites.google.com/view/fernandobarros/home?authuser=0) and [Fábio Gomes](https://sites.google.com/site/fabiogomesecon/)*   
 March 2023 [[current version]](https://avdluduvice.github.io/files/Barros_etal_CEF_March23.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202114r2)   
 
 **Optimal Unemployment Insurance Requirements**,   
-*with [Gustavo de Souza](https://www.gustavodesouza.net/home)*   
-April 2022 [[current version]](https://avdluduvice.github.io/files/deSouza_Luduvice_OptimalUIR_April22.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202210) 
+*with [Gustavo de Souza](https://www.gustavodesouza.net/home)*, *(new version)*   
+March 2023 [[current version]](https://avdluduvice.github.io/files/deSouza_Luduvice_OptimalUIR_March23.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202210r) 
 
 **The Macroeconomic Effects of Universal Basic Income Programs**, *R&R Journal of Monetary Economics*   
 September 2021 [[current version]](https://avdluduvice.github.io/files/UBI_Luduvice_Sep21.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202121)   
