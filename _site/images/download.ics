@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:Classic Mazda Westside
+BEGIN:VEVENT
+UID:D213E7F9-57B6-46DB-9860-3DAB1BEDE751
+DTSTAMP:20220627T155515
+DTSTART:20220702T110000
+DTEND:20220702T150000
+LOCATION:13930 Brook Park Rd, Brook Park, OH, 44135, US
+SUMMARY:Service Appointment at Classic Mazda Westside
+DESCRIPTION:Your detailed information is as follows:\n\nDealership Info: Cl
+ assic Mazda Westside\n\nAppointment Info:\nAdvisor: Cory Hawk\nConfirmation
+  Code: X027DX7XKY\n\nCustomer Info:\nName: Andre Victor Luduvice\nPhone: 21
+ 58733673\n\nVehicle Info: MAZDA, MAZDA3, 2021\n\nService Info:\nPackages: S
+ chedule 2\n\n\nThanks for using Xtime's ServiceCRM\n
+STATUS:CONFIRMED
+PRIORITY:3
+END:VEVENT
+END:VCALENDAR

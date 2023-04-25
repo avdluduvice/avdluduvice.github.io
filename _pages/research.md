@@ -26,8 +26,14 @@ September 2021 [[current version]](https://avdluduvice.github.io/files/UBI_Luduv
 
 **Adjustment Costs, Financial Constraints and the Persistence of Misallocation in China**,    
 *with Gustavo Camilo*   
-February 2019 [[current version]](https://avdluduvice.github.io/files/misallocation_Camilo_and_Luduvice_2018.pdf) 
+February 2019 [[current version]](https://avdluduvice.github.io/files/misallocation_Camilo_and_Luduvice_2018.pdf)   
 
+## Work in Progress
+
+**Minimum Wage, Business Dynamism and the Life Cycle of Firms**,   
+*with [Tomás R. Martínez](https://tomasrm.github.io/) and [Alexandre Sollaci](https://sites.google.com/view/alexandresollaci/home)*,   
+March 2023 [slides (under request)]   
+*Research grant: IDB - Competition in Latin America and the Caribbean* [[link]](https://www.iadb.org/en/research-and-data/project-details?nid=5691) 
 
 ## Publications
 
