@@ -16,7 +16,7 @@ February 2023 [[current version]](https://avdluduvice.github.io/files/Carroll_et
 *with [Fernando Barros Jr.](https://sites.google.com/view/fernandobarros/home?authuser=0) and [Fábio Gomes](https://sites.google.com/site/fabiogomesecon/)*   
 March 2023 [[current version]](https://avdluduvice.github.io/files/Barros_etal_CEF_March23.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202114r2)   
 
-**Optimal Unemployment Insurance Requirements**, *submitted*     
+**Optimal Unemployment Insurance Requirements**,       
 *with [Gustavo de Souza](https://www.gustavodesouza.net/home)*    
 March 2023 [[current version]](https://avdluduvice.github.io/files/deSouza_Luduvice_OptimalUIR_March23.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202210r) 
 
