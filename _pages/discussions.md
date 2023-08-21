@@ -5,6 +5,10 @@ permalink: /discussions/
 author_profile: true
 ---
 
+**The Earnings Premium of First-Degree Nepotism in the Chilean Formal Private Sector**   
+*by J. Cortés, J. Días, P. Gutierrez, P. Troncoso, E. Muñoz*    
+[IIPF](https://www.conftool.pro/iipf2023/sessions.php), August 2023 [[slides]](https://avdluduvice.github.io/files/Discussion_Cortes_etal_Luduvice_Aug2023.pdf)
+
 **Women and Men at Work: Fertility, Occupational Choice, and Development**   
 *by Tiago Cavalcanti, Leticia Fernandes, Laísa Rachter, and Cezar Santos*    
 [LuBraMacro](https://sites.google.com/site/lubramacro), September 2022 [[slides]](https://avdluduvice.github.io/files/Discussion_Cavalcanti_etal_Luduvice_Sept2022.pdf)   
