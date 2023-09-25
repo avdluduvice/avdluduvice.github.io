@@ -8,19 +8,19 @@ author_profile: true
 
 ## Working Papers
 
-**Optimal Fiscal Reform with Many Taxes**, *(new!)*   
+**Optimal Fiscal Reform with Many Taxes**,   
 *with [Daniel Carroll](https://sites.google.com/site/dcarrolleconomics/home) and [Eric Young](https://sites.google.com/view/ericyoung/home)*    
 February 2023 [[current version]](https://avdluduvice.github.io/files/Carroll_etal_OptFiscalReform_Feb23.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202307)   
 
-**The Welfare Costs of Business Cycles Unveiled: Measuring the Extent of Stabilization Policies**,          
+**The Welfare Costs of Business Cycles Unveiled: Measuring the Extent of Stabilization Policies**, *Submitted*          
 *with [Fernando Barros Jr.](https://sites.google.com/view/fernandobarros/home?authuser=0) and [Fábio Gomes](https://sites.google.com/site/fabiogomesecon/)*   
 March 2023 [[current version]](https://avdluduvice.github.io/files/Barros_etal_CEF_March23.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202114r2)   
 
-**Optimal Unemployment Insurance Requirements**,       
+**Optimal Unemployment Insurance Requirements**, *Submitted*       
 *with [Gustavo de Souza](https://www.gustavodesouza.net/home)*    
 March 2023 [[current version]](https://avdluduvice.github.io/files/deSouza_Luduvice_OptimalUIR_March23.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202210r) 
 
-**The Macroeconomic Effects of Universal Basic Income Programs**, *R&R Journal of Monetary Economics*   
+**The Macroeconomic Effects of Universal Basic Income Programs**, *Accepted with major revisions, Journal of Monetary Economics*   
 September 2021 [[current version]](https://avdluduvice.github.io/files/UBI_Luduvice_Sep21.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202121)   
 *Featured:* [Jain Family Institute](https://www.jainfamilyinstitute.org/projects/parts/a-critical-review-of-macroeconomic-models-for-guaranteed-income-and-the-child-tax-credit/) 
 
