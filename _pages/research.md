@@ -20,7 +20,8 @@ March 2023 [[current version]](https://avdluduvice.github.io/files/Barros_etal_C
 *with [Gustavo de Souza](https://www.gustavodesouza.net/home)*    
 March 2023 [[current version]](https://avdluduvice.github.io/files/deSouza_Luduvice_OptimalUIR_March23.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202210r) 
 
-**The Macroeconomic Effects of Universal Basic Income Programs**, *Accepted with major revisions, Journal of Monetary Economics*   
+**The Macroeconomic Effects of Universal Basic Income Programs**,      
+*Accepted with major revisions, Journal of Monetary Economics*      
 September 2021 [[current version]](https://avdluduvice.github.io/files/UBI_Luduvice_Sep21.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202121)   
 *Featured:* [Jain Family Institute](https://www.jainfamilyinstitute.org/projects/parts/a-critical-review-of-macroeconomic-models-for-guaranteed-income-and-the-child-tax-credit/) 
 
