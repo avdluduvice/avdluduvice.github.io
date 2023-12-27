@@ -5,6 +5,10 @@ permalink: /discussions/
 author_profile: true
 ---
 
+**Universal Basic Income: The Worst Bar of All Others?**   
+*by Luís Guimarães and Diogo Lourenço*    
+[LuBraMacro](https://sites.google.com/site/lubramacro), November 2023 [[slides]](https://avdluduvice.github.io/files/Discussion_Guimaraes_Lourenco_Luduvice_Nov23_.pdf)
+
 **The Earnings Premium of First-Degree Nepotism in the Chilean Formal Private Sector**   
 *by J. Cortés, J. Días, P. Gutierrez, P. Troncoso, E. Muñoz*    
 [IIPF](https://www.conftool.pro/iipf2023/sessions.php), August 2023 [[slides]](https://avdluduvice.github.io/files/Discussion_Cortes_etal_Luduvice_Aug2023.pdf)
