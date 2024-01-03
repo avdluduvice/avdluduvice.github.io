@@ -8,7 +8,7 @@ author_profile: true
 
 ## Working Papers
 
-**Optimal Fiscal Reform with Many Taxes**,   
+**Optimal Fiscal Reform with Many Taxes**, *New version coming soon!*     
 *with [Daniel Carroll](https://sites.google.com/site/dcarrolleconomics/home) and [Eric Young](https://sites.google.com/view/ericyoung/home)*    
 February 2023 [[current version]](https://avdluduvice.github.io/files/Carroll_etal_OptFiscalReform_Feb23.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202307)   
 
