@@ -35,7 +35,7 @@ February 2019 [[current version]](https://avdluduvice.github.io/files/misallocat
 **Minimum Wage, Business Dynamism and the Life Cycle of Firms**,   
 *with [Tomás R. Martínez](https://tomasrm.github.io/) and [Alexandre Sollaci](https://sites.google.com/view/alexandresollaci/home)*,   
 November 2023 [slides (under request)]   
-*Research grant: IDB - Competition in Latin America and the Caribbean* [[link]](https://www.iadb.org/en/research-and-data/project-details?nid=5691) 
+*Research grant: IDB - Competition in Latin America and the Caribbean* 
 
 ## Publications
 
