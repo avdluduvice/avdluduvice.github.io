@@ -8,6 +8,11 @@ author_profile: true
 
 ## Working Papers
 
+**Minimum Wage, Business Dynamism and the Life Cycle of Firms**, *(new!)*    
+*with [Tomás R. Martínez](https://tomasrm.github.io/) and [Alexandre Sollaci](https://sites.google.com/view/alexandresollaci/home)*,   
+March 2024 [[current version]](https://avdluduvice.github.io/files/LMS_MinimumWage_Mar24.pdf) [[IDB WP]](http://dx.doi.org/10.18235/0012849)  
+*Research grant: IDB - Competition in Latin America and the Caribbean*   
+
 **Optimal Fiscal Reform with Many Taxes**, *(new version coming soon!)*     
 *with [Daniel Carroll](https://sites.google.com/site/dcarrolleconomics/home) and [Eric Young](https://sites.google.com/view/ericyoung/home)*    
 February 2023 [[current version]](https://avdluduvice.github.io/files/Carroll_etal_OptFiscalReform_Feb23.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202307)   
@@ -30,14 +35,8 @@ September 2021 [[current version]](https://avdluduvice.github.io/files/UBI_Luduv
 *with Gustavo Camilo*   
 February 2019 [[current version]](https://avdluduvice.github.io/files/misallocation_Camilo_and_Luduvice_2018.pdf)   
 
-## Work in Progress
 
-**Minimum Wage, Business Dynamism and the Life Cycle of Firms**,   
-*with [Tomás R. Martínez](https://tomasrm.github.io/) and [Alexandre Sollaci](https://sites.google.com/view/alexandresollaci/home)*,   
-November 2023 [slides (under request)]   
-*Research grant: IDB - Competition in Latin America and the Caribbean* 
-
-## Publications
+## Pre-PhD
 
 **[Modeling Default Probabilities: The Case of Brazil](https://www.sciencedirect.com/science/article/abs/pii/S1042443111000084?via%3Dihub)**,   
 *with [Benjamin Tabak](https://scholar.google.com/citations?user=OHSmd3AAAAAJ&hl=en) and [Daniel O. Cajueiro](https://sites.google.com/site/danielocajueiro/home)*   
