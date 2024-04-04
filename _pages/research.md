@@ -9,7 +9,7 @@ author_profile: true
 
 **The Macroeconomic Effects of Universal Basic Income Programs**,      
 *Accepted, Journal of Monetary Economics*      
-March 2024 [[current version]] (accepted version coming soon) [[Old Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202121)   
+March 2024 (accepted version coming soon) [[Old Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202121)   
 *Featured:* [Jain Family Institute](https://www.jainfamilyinstitute.org/projects/parts/a-critical-review-of-macroeconomic-models-for-guaranteed-income-and-the-child-tax-credit/) 
 
 
