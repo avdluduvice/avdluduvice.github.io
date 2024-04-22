@@ -29,8 +29,9 @@ February 2023 [[current version]](https://avdluduvice.github.io/files/Carroll_et
 *R&R, European Economic Review*  
 August 2023 [[current version]](https://avdluduvice.github.io/files/Barros_etal_CEF_Aug23.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202114r2)   
 
-**Optimal Unemployment Insurance Requirements**, *(submitted)*       
-*with [Gustavo de Souza](https://www.gustavodesouza.net/home)*,    
+**Optimal Unemployment Insurance Requirements**,      
+*with [Gustavo de Souza](https://www.gustavodesouza.net/home)*,   
+*R&R, European Economic Review*   
 March 2023 [[current version]](https://avdluduvice.github.io/files/deSouza_Luduvice_OptimalUIR_March23.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202210r) 
 
 **Adjustment Costs, Financial Constraints and the Persistence of Misallocation in China**,    
