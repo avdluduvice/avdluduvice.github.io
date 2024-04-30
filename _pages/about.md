@@ -9,7 +9,7 @@ redirect_from:
 ---
 ---
 
-I am a Research Economist at the Federal Reserve Bank of Cleveland! 
+I am a Research Economist at the Federal Reserve Bank of Cleveland. 
 
 My research interests are Macroeconomics, Public Finance, and Labor Economics.   
 
