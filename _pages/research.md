@@ -22,7 +22,7 @@ March 2024 [[current version]](https://avdluduvice.github.io/files/LMS_MinimumWa
 
 **Optimal Fiscal Reform with Many Taxes**, *(new version coming soon!)*     
 *with [Daniel Carroll](https://sites.google.com/site/dcarrolleconomics/home) and [Eric Young](https://sites.google.com/view/ericyoung/home)*,    
-February 2023 [[current version]](https://avdluduvice.github.io/files/Carroll_etal_OptFiscalReform_Feb23.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202307)   
+February 2023 [[current version]](https://avdluduvice.github.io/files/Carroll_etal_OptFiscalReform_Feb23.pdf) [[slides]](https://avdluduvice.github.io/files/CLY_ManyTaxes_Jun24_slides.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202307)   
 
 **The Welfare Costs of Business Cycles Unveiled: Measuring the Extent of Stabilization Policies**,           
 *with [Fernando Barros Jr.](https://sites.google.com/view/fernandobarros/home?authuser=0) and [Fábio Gomes](https://sites.google.com/site/fabiogomesecon/)*,   
