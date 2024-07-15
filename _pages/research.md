@@ -8,8 +8,8 @@ author_profile: true
 ## Publications
 
 **The Macroeconomic Effects of Universal Basic Income Programs**,      
-*Accepted, Journal of Monetary Economics*      
-June 2024 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0304393224000680) [[WP with Appendix]](https://avdluduvice.github.io/files/Luduvice_UBI_June24_final.pdf) [[Old Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202121),   
+*Forthcoming, Journal of Monetary Economics*      
+June 2024 [[paper]](https://doi.org/10.1016/j.jmoneco.2024.103615) [[WP with Appendix]](https://avdluduvice.github.io/files/Luduvice_UBI_June24_final.pdf) [[Old Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202121),   
 *Featured:* [Jain Family Institute](https://www.jainfamilyinstitute.org/projects/parts/a-critical-review-of-macroeconomic-models-for-guaranteed-income-and-the-child-tax-credit/) 
 
 
