@@ -14,10 +14,10 @@ June 2024 [[paper]](https://doi.org/10.1016/j.jmoneco.2024.103615) [[WP with App
 
 **The Welfare Costs of Business Cycles Unveiled: Measuring the Extent of Stabilization Policies**,           
 *with [Fernando Barros Jr.](https://sites.google.com/view/fernandobarros/home?authuser=0) and [Fábio Gomes](https://sites.google.com/site/fabiogomesecon/)*,   
-*Accepted, European Economic Review*  
-June 2024 [[paper]](https://doi.org/10.1016/j.euroecorev.2024.104822) [[WP with Appendix]](https://avdluduvice.github.io/files/Barros_etal_CEF_June24.pdf) [[Old Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202114r2)
+European Economic Review, Volume 169, 104822, 2024. 
+[[paper]](https://doi.org/10.1016/j.euroecorev.2024.104822) [[WP with Appendix]](https://avdluduvice.github.io/files/Barros_etal_CEF_June24.pdf) [[Old Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202114r2)
 
-## Working Papers
+## Working Papers	
 
 **Minimum Wage, Business Dynamism and the Life Cycle of Firms**, *(new!)*    
 *with [Tomás R. Martínez](https://tomasrm.github.io/) and [Alexandre Sollaci](https://sites.google.com/view/alexandresollaci/home)*,   
