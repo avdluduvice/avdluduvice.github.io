@@ -24,7 +24,7 @@ European Economic Review, Volume 169, 104822, 2024.
 March 2024 [[current version]](https://avdluduvice.github.io/files/LMS_MinimumWage_Mar24.pdf) [[IDB WP]](http://dx.doi.org/10.18235/0012849)  
 *Research grant: IDB - Competition in Latin America and the Caribbean*   
 
-**Optimal Fiscal Reform with Many Taxes**, *(new version!)*     
+**Optimal Fiscal Reform with Many Taxes**, *(new version, submitted)*     
 *with [Daniel Carroll](https://sites.google.com/site/dcarrolleconomics/home) and [Eric Young](https://sites.google.com/view/ericyoung/home)*,    
 August 2024 [[current version]](https://avdluduvice.github.io/files/CLY_ManyTaxes_Aug24.pdf)  [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202307r)   
  
