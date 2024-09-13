@@ -5,6 +5,10 @@ permalink: /discussions/
 author_profile: true
 ---
 
+**Payments Under the Table in Latin America**   
+*by J. Feinman, A. Franco, P. Garriga, N. Gonzalez-Pietro, R. Hsu Rocha, M. Lauletta*    
+[IIPF](https://www.conftool.pro/iipf2024/sessions.php), August 2024 [[slides]](https://avdluduvice.github.io/files/Discussion_Feinman_etal_Luduvice_Aug2024.pdf)
+
 **Universal Basic Income: The Worst Bar of All Others?**   
 *by Luís Guimarães and Diogo Lourenço*    
 [LuBraMacro](https://sites.google.com/site/lubramacro), November 2023 [[slides]](https://avdluduvice.github.io/files/Discussion_Guimaraes_Lourenco_Luduvice_Nov23.pdf)
