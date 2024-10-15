@@ -8,6 +8,12 @@ author_profile: true
 
 ## Economic Commentaries
 
+**How Insured Are Workers Against Unemployment? Unemployment Insurance and the Distribution of Liquid Wealth**,   
+*with [Anaya Truss-Williams](https://www.clevelandfed.org/people/profiles/t/truss-williams-anaya)*      
+October 2024 [[paper]](https://doi.org/10.26509/frbc-ec-202416)
+[[appendix]](https://avdluduvice.github.io/files/ec202416_appendices.pdf)
+[[replication files]](https://github.com/avdluduvice/LuduviceTruss-Williams_UI)   
+
 **Means-Tested Transfers, Asset Limits, and Universal Basic Income**,   
 *with [Cornelius Johnson](https://www.clevelandfed.org/research/economists/johnson-cornelius)*      
 August 2022 [[paper]](https://doi.org/10.26509/frbc-ec-202210)
