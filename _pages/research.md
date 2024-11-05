@@ -8,13 +8,13 @@ author_profile: true
 ## Publications
 
 **The Macroeconomic Effects of Universal Basic Income Programs**,      
-Journal of Monetary Economics, Volume 148, 103615, 2024.     
+*Journal of Monetary Economics*, Volume 148, 103615, 2024.     
 [[paper]](https://doi.org/10.1016/j.jmoneco.2024.103615) [[WP with Appendix]](https://avdluduvice.github.io/files/Luduvice_UBI_June24_final.pdf) [[Old Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202121),   
 *Featured:* [Jain Family Institute](https://www.jainfamilyinstitute.org/projects/parts/a-critical-review-of-macroeconomic-models-for-guaranteed-income-and-the-child-tax-credit/) 
 
 **The Welfare Costs of Business Cycles Unveiled: Measuring the Extent of Stabilization Policies**,           
 *with [Fernando Barros Jr.](https://sites.google.com/view/fernandobarros/home?authuser=0) and [Fábio Gomes](https://sites.google.com/site/fabiogomesecon/)*,   
-European Economic Review, Volume 169, 104822, 2024 (lead article).  
+*European Economic Review*, Volume 169, 104822, 2024 (lead article).  
 [[paper]](https://doi.org/10.1016/j.euroecorev.2024.104822) [[WP with Appendix]](https://avdluduvice.github.io/files/Barros_etal_CEF_June24.pdf) [[Old Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202114r2)
 
 ## Working Papers
@@ -42,4 +42,4 @@ February 2019 [[current version]](https://avdluduvice.github.io/files/misallocat
 
 **Modeling Default Probabilities: The Case of Brazil**, [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1042443111000084?via%3Dihub)   
 *with [Benjamin Tabak](https://scholar.google.com/citations?user=OHSmd3AAAAAJ&hl=en) and [Daniel O. Cajueiro](https://sites.google.com/site/danielocajueiro/home)*    
-Journal of International Financial Markets, Institutions and Money, Volume 21, Issue 4, p. 513-534, 2011.   
+*Journal of International Financial Markets*, Institutions and Money, Volume 21, Issue 4, p. 513-534, 2011.   
