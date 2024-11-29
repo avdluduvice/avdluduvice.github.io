@@ -19,6 +19,10 @@ author_profile: true
 
 ## Working Papers
 
+**A Note on Aggregating Preferences for Redistribution**, *(new!)*     
+*with [Daniel Carroll](https://sites.google.com/site/dcarrolleconomics/home) and [Eric Young](https://sites.google.com/view/ericyoung/home)*,    
+November 2024 [[current version]](https://avdluduvice.github.io/files/CLY_Preferences_Nov24.pdf)  [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202427)
+
 **Minimum Wage, Business Dynamism and the Life Cycle of Firms**,    
 *with [Tomás R. Martínez](https://tomasrm.github.io/) and [Alexandre Sollaci](https://sites.google.com/view/alexandresollaci/home)*,   
 March 2024 [[current version]](https://avdluduvice.github.io/files/LMS_MinimumWage_Mar24.pdf) [[IDB WP]](http://dx.doi.org/10.18235/0012849)  
