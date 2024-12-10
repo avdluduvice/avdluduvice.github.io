@@ -15,7 +15,8 @@ author_profile: true
 **The Welfare Costs of Business Cycles Unveiled: Measuring the Extent of Stabilization Policies**,           
 *with [Fernando Barros Jr.](https://sites.google.com/view/fernandobarros/home?authuser=0) and [Fábio Gomes](https://sites.google.com/site/fabiogomesecon/)*,   
 *European Economic Review*, Volume 169, 104822, 2024 (lead article).  
-[[paper]](https://doi.org/10.1016/j.euroecorev.2024.104822) [[WP with Appendix]](https://avdluduvice.github.io/files/Barros_etal_CEF_June24.pdf) [[Old Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202114r2)
+[[paper]](https://doi.org/10.1016/j.euroecorev.2024.104822) [[WP with Appendix]](https://avdluduvice.github.io/files/Barros_etal_CEF_June24.pdf) [[Old Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202114r2)   
+*Featured:* [Jornal da USP](https://jornal.usp.br/ciencias/qual-o-custo-no-bem-estar-de-consumidores-em-diferentes-cenarios-de-estabilizacao-economica/)
 
 ## Working Papers
 
