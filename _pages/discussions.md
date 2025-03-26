@@ -5,6 +5,10 @@ permalink: /discussions/
 author_profile: true
 ---
 
+**The Job Ladder, Unemployment Risk, and Incomplete Markets**   
+*by Alex Clymo, Piotr Denderski, Yusuf Mercan, and Benjamin Schoefer*    
+System EH Conference, March 2025 [[slides]](https://avdluduvice.github.io/files/Discussion_Clymo_etal_Luduvice_Mar25.pdf)
+
 **Payments Under the Table in Latin America**   
 *by J. Feinman, A. Franco, P. Garriga, N. Gonzalez-Pietro, R. Hsu Rocha, M. Lauletta*    
 [IIPF](https://www.conftool.pro/iipf2024/sessions.php), August 2024 [[slides]](https://avdluduvice.github.io/files/Discussion_Feinman_etal_Luduvice_Aug2024.pdf)
