@@ -7,6 +7,11 @@ author_profile: true
 
 ## Publications
 
+**A Note on Aggregating Preferences for Redistribution**,      
+*with [Daniel Carroll](https://sites.google.com/site/dcarrolleconomics/home) and [Eric Young](https://sites.google.com/view/ericyoung/home)*,  
+*Accepted, Economics Letters*   
+July 2025 [[accepted version]](https://avdluduvice.github.io/files/CLY_PrefDist_July25.pdf) [[Old Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202427)
+
 **The Macroeconomic Effects of Universal Basic Income Programs**,      
 *Journal of Monetary Economics*, Volume 148, 103615, 2024.     
 [[paper]](https://doi.org/10.1016/j.jmoneco.2024.103615) [[WP with Appendix]](https://avdluduvice.github.io/files/Luduvice_UBI_June24_final.pdf) [[Old Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202121),   
@@ -19,11 +24,6 @@ author_profile: true
 *Featured:* [Jornal da USP](https://jornal.usp.br/ciencias/qual-o-custo-no-bem-estar-de-consumidores-em-diferentes-cenarios-de-estabilizacao-economica/)
 
 ## Working Papers
-
-**A Note on Aggregating Preferences for Redistribution**,      
-*with [Daniel Carroll](https://sites.google.com/site/dcarrolleconomics/home) and [Eric Young](https://sites.google.com/view/ericyoung/home)*,  
-*R&R, Economics Letters*   
-November 2024 [[current version]](https://avdluduvice.github.io/files/CLY_Preferences_Nov24.pdf)  [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202427)
 
 **Minimum Wage, Business Dynamism and the Life Cycle of Firms**,    
 *with [Tomás R. Martínez](https://tomasrm.github.io/) and [Alexandre Sollaci](https://sites.google.com/view/alexandresollaci/home)*,   
