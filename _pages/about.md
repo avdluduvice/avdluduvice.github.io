@@ -11,6 +11,6 @@ redirect_from:
 
 I am a Research Economist at the Federal Reserve Bank of Cleveland. 
 
-My research interests are in Macroeconomics, Public Finance, and Labor Economics.   
+My research interests are in Macroeconomics, Public Finance, Labor Economics, and Firm Dynamics.   
 
 Click [here](https://www.clevelandfed.org/research/economists/luduvice-andre-victor-d) to go to my Cleveland Fed webpage. Please find my CV [here](https://avdluduvice.github.io/files/Luduvice_CV.pdf). 
