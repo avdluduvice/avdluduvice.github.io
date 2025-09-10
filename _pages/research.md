@@ -32,7 +32,7 @@ March 2024 [[current version]](https://avdluduvice.github.io/files/LMS_MinimumWa
 
 **Optimal Fiscal Reform with Many Taxes**,      
 *with [Daniel Carroll](https://sites.google.com/site/dcarrolleconomics/home) and [Eric Young](https://sites.google.com/view/ericyoung/home)*,    
-August 2024 [[current version]](https://avdluduvice.github.io/files/CLY_ManyTaxes_Aug24.pdf)  [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202307r)   
+March 2025 [[current version]](https://avdluduvice.github.io/files/CLY_ManyTaxes_March25.pdf)  [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202307r)   
  
 **Optimal Unemployment Insurance Requirements**,      
 *with [Gustavo de Souza](https://www.gustavodesouza.net/home)*,   
