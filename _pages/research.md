@@ -36,7 +36,7 @@ September 2025 [[current version]](https://avdluduvice.github.io/files/CLY_ManyT
  
 **Optimal Unemployment Insurance Requirements**,      
 *with [Gustavo de Souza](https://www.gustavodesouza.net/home)*,   
-*R&R, International Economic Review*   
+*Revised & Resubmitted, International Economic Review*   
 March 2023 [[current version]](https://avdluduvice.github.io/files/deSouza_Luduvice_OptimalUIR_March23.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202210r) 
 
 **Adjustment Costs, Financial Constraints and the Persistence of Misallocation in China**,    
