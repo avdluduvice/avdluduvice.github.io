@@ -9,8 +9,8 @@ author_profile: true
 
 **A Note on Aggregating Preferences for Redistribution**,      
 *with [Daniel Carroll](https://sites.google.com/site/dcarrolleconomics/home) and [Eric Young](https://sites.google.com/view/ericyoung/home)*,  
-*Accepted, Economics Letters*   
-July 2025 [[accepted version]](https://avdluduvice.github.io/files/CLY_PrefDist_July25.pdf) [[Old Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202427)
+*Accepted, Economics Letters*, 112535, 2025.
+[[paper]](https://doi.org/10.1016/j.econlet.2025.112535) [[accepted version with Appendix]](https://avdluduvice.github.io/files/CLY_PrefDist_July25.pdf) [[Old Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202427)
 
 **The Macroeconomic Effects of Universal Basic Income Programs**,      
 *Journal of Monetary Economics*, Volume 148, 103615, 2024.     
