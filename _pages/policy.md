@@ -23,6 +23,7 @@ August 2022 [[paper]](https://doi.org/10.26509/frbc-ec-202210)
 [[appendix]](https://avdluduvice.github.io/files/ec202210_appendices.pdf)
 [[replication files]](https://github.com/avdluduvice/LuduviceJohnson_MTUBI)   
 *Summary:* [Research in Brief](https://www.clevelandfed.org/publications/research-in-brief/rib-20220630-asset-testing-and-the-us-income-security-system)
+[[pdf]](https://avdluduvice.github.io/files/RiB_EC202210.pdf)
 
 **Boomerang Kids in the Pandemic: How High-Income Families Are Their Own Safety Net**,   
 *with [Rachel Widra](https://www.clevelandfed.org/people/profiles/w/widra-rachel)*      
