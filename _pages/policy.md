@@ -8,6 +8,13 @@ author_profile: true
 
 ## Economic Commentaries
 
+**Did Inflation Affect Households Differently? A Look at the Postpandemic Inflation and Wage Growth Dynamics**,   
+*with [Anaya Truss-Williams](https://www.clevelandfed.org/people/profiles/t/truss-williams-anaya) and [C. J. Walker](https://www.clevelandfed.org/people/profiles/w/walker-christopher-j)*      
+October 2025 [[paper]](https://doi.org/10.26509/frbc-ec-202511)
+[[pdf]](https://avdluduvice.github.io/files/EC_Luduvice_Truss-Williams_Walker_2025.pdf)
+[[appendix]](https://avdluduvice.github.io/files/ec202511_appendices.pdf)
+[[replication files]](https://github.com/avdluduvice/LuduviceTruss-WilliamsWalker_InfWageGrowth)
+
 **How Insured Are Workers Against Unemployment? Unemployment Insurance and the Distribution of Liquid Wealth**,   
 *with [Anaya Truss-Williams](https://www.clevelandfed.org/people/profiles/t/truss-williams-anaya)*      
 October 2024 [[paper]](https://doi.org/10.26509/frbc-ec-202416)
