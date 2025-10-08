@@ -7,6 +7,11 @@ author_profile: true
 
 ## Publications
 
+**Optimal Unemployment Insurance Requirements**,      
+*with [Gustavo de Souza](https://www.gustavodesouza.net/home)*,   
+*Accepted, International Economic Review*   
+July 2025 [[accepted version]](https://avdluduvice.github.io/files/deSouza_Luduvice_OptimalUIR_July25.pdf) [[Old Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202210r) 
+
 **A Note on Aggregating Preferences for Redistribution**,      
 *with [Daniel Carroll](https://sites.google.com/site/dcarrolleconomics/home) and [Eric Young](https://sites.google.com/view/ericyoung/home)*,  
 *Economics Letters*, Volume 256, 112535, 2025.  
@@ -34,11 +39,6 @@ March 2024 [[current version]](https://avdluduvice.github.io/files/LMS_MinimumWa
 *with [Daniel Carroll](https://sites.google.com/site/dcarrolleconomics/home) and [Eric Young](https://sites.google.com/view/ericyoung/home)*,    
 September 2025 [[current version]](https://avdluduvice.github.io/files/CLY_ManyTaxes_Sep25.pdf)  [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202307r)  [[slides]](https://avdluduvice.github.io/files/CLY_ManyTaxes_Sep25_slides.pdf) 
  
-**Optimal Unemployment Insurance Requirements**,      
-*with [Gustavo de Souza](https://www.gustavodesouza.net/home)*,   
-*Revised & Resubmitted, International Economic Review*   
-March 2023 [[current version]](https://avdluduvice.github.io/files/deSouza_Luduvice_OptimalUIR_March23.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202210r) 
-
 **Adjustment Costs, Financial Constraints and the Persistence of Misallocation in China**,    
 *with Gustavo Camilo*   
 February 2019 [[current version]](https://avdluduvice.github.io/files/misallocation_Camilo_and_Luduvice_2018.pdf)   
