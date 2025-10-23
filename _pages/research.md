@@ -41,7 +41,12 @@ September 2025 [[current version]](https://avdluduvice.github.io/files/CLY_ManyT
  
 **Adjustment Costs, Financial Constraints and the Persistence of Misallocation in China**,    
 *with Gustavo Camilo*   
-February 2019 [[current version]](https://avdluduvice.github.io/files/misallocation_Camilo_and_Luduvice_2018.pdf)   
+February 2019 [[current version]](https://avdluduvice.github.io/files/misallocation_Camilo_and_Luduvice_2018.pdf)  
+
+## Work in Progress
+
+**The Business Cycles Impacts of AI**,    
+*with [Roberto Pinheiro](https://sites.google.com/site/rbpinheiro/)*  
 
 
 ## Pre-PhD
