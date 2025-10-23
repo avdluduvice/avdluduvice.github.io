@@ -28,9 +28,10 @@ July 2025 [[accepted version]](https://avdluduvice.github.io/files/deSouza_Luduv
 [[paper]](https://doi.org/10.1016/j.euroecorev.2024.104822) [[WP with Appendix]](https://avdluduvice.github.io/files/Barros_etal_CEF_June24.pdf) [[Old Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202114r2)   
 *Featured:* [Jornal da USP](https://jornal.usp.br/ciencias/qual-o-custo-no-bem-estar-de-consumidores-em-diferentes-cenarios-de-estabilizacao-economica/)
 
-(pre-PhD) **Modeling Default Probabilities: The Case of Brazil**, [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1042443111000084?via%3Dihub)   
+(pre-PhD) **Modeling Default Probabilities: The Case of Brazil**,   
 *with [Benjamin Tabak](https://scholar.google.com/citations?user=OHSmd3AAAAAJ&hl=en) and [Daniel O. Cajueiro](https://sites.google.com/site/danielocajueiro/home)*    
 *Journal of International Financial Markets, Institutions and Money*, Volume 21, Issue 4, p. 513-534, 2011.
+[[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1042443111000084?via%3Dihub) 
 
 ## Working Papers
 
