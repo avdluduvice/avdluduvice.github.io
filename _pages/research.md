@@ -50,7 +50,7 @@ February 2019 [[current version]](https://avdluduvice.github.io/files/misallocat
 
 ## Work in Progress
 
-**The Business Cycles Impacts of AI**,    
+**AI-Augmented Capital-Skill Complementarity**,    
 *with [Roberto Pinheiro](https://sites.google.com/site/rbpinheiro/)*    
 
 
