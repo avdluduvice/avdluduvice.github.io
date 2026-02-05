@@ -42,7 +42,7 @@ March 2024 [[current version]](https://avdluduvice.github.io/files/LMS_MinimumWa
 
 **Optimal Fiscal Reform with Many Taxes**,      
 *with [Daniel Carroll](https://dcarrollecon.github.io/) and [Eric Young](https://sites.google.com/view/ericyoung/home)*,    
-September 2025 [[current version]](https://avdluduvice.github.io/files/CLY_ManyTaxes_Sep25.pdf)  [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202307r)  [[slides]](https://avdluduvice.github.io/files/CLY_ManyTaxes_Sep25_slides.pdf) 
+December 2025 [[current version]](https://avdluduvice.github.io/files/CLY_ManyTaxes_Dec25.pdf)  [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202307r)  [[slides]](https://avdluduvice.github.io/files/CLY_ManyTaxes_Sep25_slides.pdf) 
  
 **Adjustment Costs, Financial Constraints and the Persistence of Misallocation in China**,    
 *with Gustavo Camilo*   
