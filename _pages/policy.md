@@ -14,7 +14,7 @@ October 2025 [[paper]](https://doi.org/10.26509/frbc-ec-202511)
 [[pdf]](https://avdluduvice.github.io/files/EC_Luduvice_Truss-Williams_Walker_2025.pdf)
 [[appendix]](https://avdluduvice.github.io/files/ec202511_appendices.pdf)
 [[replication files]](https://github.com/avdluduvice/LuduviceTruss-WilliamsWalker_InfWageGrowth)  
-*Featured:* [President Hammack's Speech](https://www.clevelandfed.org/collections/speeches/2025/sp-20251106-dual-mandate-on-economic-tightrope)  [[pdf]](https://avdluduvice.github.io/files/Hammack_Speech_Nov2025.pdf)
+*Featured:* [President Hammack's Speech](https://doi.org/10.26509/sp-20251106)  [[pdf]](https://avdluduvice.github.io/files/Hammack_Speech_Nov2025.pdf)
 
 **How Insured Are Workers Against Unemployment? Unemployment Insurance and the Distribution of Liquid Wealth**,   
 *with [Anaya Truss-Williams](https://www.clevelandfed.org/people/profiles/t/truss-williams-anaya)*      
