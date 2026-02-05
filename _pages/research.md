@@ -13,7 +13,7 @@ author_profile: true
 [[WP with Appendix]](https://avdluduvice.github.io/files/deSouza_Luduvice_OptimalUIR_Jan26.pdf) [[Old Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202210r) [[replication files]](https://doi.org/10.3886/E241088V1)
 
 **A Note on Aggregating Preferences for Redistribution**,      
-*with [Daniel Carroll](https://sites.google.com/site/dcarrolleconomics/home) and [Eric Young](https://sites.google.com/view/ericyoung/home)*,  
+*with [Daniel Carroll](https://dcarrollecon.github.io/) and [Eric Young](https://sites.google.com/view/ericyoung/home)*,  
 *Economics Letters*, Volume 256, 112535, 2025.  
 [[paper]](https://doi.org/10.1016/j.econlet.2025.112535) [[WP with Appendix]](https://avdluduvice.github.io/files/CLY_NotesPref_Sep25.pdf) [[Old Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202427)
 
@@ -41,7 +41,7 @@ March 2024 [[current version]](https://avdluduvice.github.io/files/LMS_MinimumWa
 *Research grant: IDB - Competition in Latin America and the Caribbean*   
 
 **Optimal Fiscal Reform with Many Taxes**,      
-*with [Daniel Carroll](https://sites.google.com/site/dcarrolleconomics/home) and [Eric Young](https://sites.google.com/view/ericyoung/home)*,    
+*with [Daniel Carroll](https://dcarrollecon.github.io/) and [Eric Young](https://sites.google.com/view/ericyoung/home)*,    
 September 2025 [[current version]](https://avdluduvice.github.io/files/CLY_ManyTaxes_Sep25.pdf)  [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202307r)  [[slides]](https://avdluduvice.github.io/files/CLY_ManyTaxes_Sep25_slides.pdf) 
  
 **Adjustment Costs, Financial Constraints and the Persistence of Misallocation in China**,    
