@@ -10,7 +10,7 @@ author_profile: true
 **Optimal Unemployment Insurance Requirements**,      
 *with [Gustavo de Souza](https://www.gustavodesouza.net/home)*,   
 *Forthcoming, International Economic Review*   
-[[WP with Appendix]](https://avdluduvice.github.io/files/deSouza_Luduvice_OptimalUIR_Jan26.pdf) [[Old Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202210r) [[replication files]](https://doi.org/10.3886/E241088V1)
+[[paper]](https://onlinelibrary.wiley.com/doi/10.1111/iere.70061) [[WP with Appendix]](https://avdluduvice.github.io/files/deSouza_Luduvice_OptimalUIR_Jan26.pdf) [[Old Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202210r) [[replication files]](https://doi.org/10.3886/E241088V1)
 
 **A Note on Aggregating Preferences for Redistribution**,      
 *with [Daniel Carroll](https://dcarrollecon.github.io/) and [Eric Young](https://sites.google.com/view/ericyoung/home)*,  
