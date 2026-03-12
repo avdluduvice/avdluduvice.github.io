@@ -10,7 +10,7 @@ author_profile: true
 **Optimal Unemployment Insurance Requirements**,      
 *with [Gustavo de Souza](https://www.gustavodesouza.net/home)*,   
 *Forthcoming, International Economic Review*   
-[[paper]](https://onlinelibrary.wiley.com/doi/10.1111/iere.70061) [[WP with Appendix]](https://avdluduvice.github.io/files/deSouza_Luduvice_OptimalUIR_Jan26.pdf) [[Old Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202210r) [[replication files]](https://doi.org/10.3886/E241088V1)
+[[paper]](https://doi.org/10.1111/iere.70061) [[WP with Appendix]](https://avdluduvice.github.io/files/deSouza_Luduvice_OptimalUIR_Jan26.pdf) [[Old Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202210r) [[replication files]](https://doi.org/10.3886/E241088V1)
 
 **A Note on Aggregating Preferences for Redistribution**,      
 *with [Daniel Carroll](https://dcarrollecon.github.io/) and [Eric Young](https://sites.google.com/view/ericyoung/home)*,  
@@ -42,7 +42,7 @@ March 2024 [[current version]](https://avdluduvice.github.io/files/LMS_MinimumWa
 
 **Optimal Fiscal Reform with Many Taxes**, *(submitted)*      
 *with [Daniel Carroll](https://dcarrollecon.github.io/) and [Eric Young](https://sites.google.com/view/ericyoung/home)*,    
-December 2025 [[current version]](https://avdluduvice.github.io/files/CLY_ManyTaxes_Dec25.pdf)  [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202307r)  [[slides]](https://avdluduvice.github.io/files/CLY_ManyTaxes_Sep25_slides.pdf) 
+March 2026 [[current version]](https://avdluduvice.github.io/files/CLY_ManyTaxes_March26.pdf)  [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202307r)  [[slides]](https://avdluduvice.github.io/files/CLY_ManyTaxes_Sep25_slides.pdf) 
  
 **Adjustment Costs, Financial Constraints and the Persistence of Misallocation in China**,    
 *with Gustavo Camilo*   
