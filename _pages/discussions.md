@@ -7,7 +7,7 @@ author_profile: true
 
 **Refinancing Student Debt: Borrower Outcomes and Policy Implications**   
 *by Jacob Goss*    
-[MEA](https://mea.sites.grinnell.edu/), March 2026 [[slides]](https://avdluduvice.github.io/files/Discussion_Goss_Luduvice_Mar26s.pdf)
+[MEA](https://mea.sites.grinnell.edu/), March 2026 [[slides]](https://avdluduvice.github.io/files/Discussion_Goss_Luduvice_Mar26.pdf)
 
 **The Job Ladder, Unemployment Risk, and Incomplete Markets**   
 *by Alex Clymo, Piotr Denderski, Yusuf Mercan, and Benjamin Schoefer*    
