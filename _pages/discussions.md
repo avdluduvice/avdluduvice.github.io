@@ -5,13 +5,17 @@ permalink: /discussions/
 author_profile: true
 ---
 
+**Refinancing Student Debt: Borrower Outcomes and Policy Implications**   
+*by Jacob Goss*    
+[MEA](https://mea.sites.grinnell.edu/), March 2026 [[slides]](https://avdluduvice.github.io/files/Discussion_Goss_Luduvice_Mar26s.pdf)
+
 **The Job Ladder, Unemployment Risk, and Incomplete Markets**   
 *by Alex Clymo, Piotr Denderski, Yusuf Mercan, and Benjamin Schoefer*    
 System EH Conference, March 2025 [[slides]](https://avdluduvice.github.io/files/Discussion_Clymo_etal_Luduvice_Mar25.pdf)
 
 **Payments Under the Table in Latin America**   
 *by J. Feinman, A. Franco, P. Garriga, N. Gonzalez-Pietro, R. Hsu Rocha, M. Lauletta*    
-[IIPF](https://www.conftool.pro/iipf2024/sessions.php), August 2024 [[slides]](https://avdluduvice.github.io/files/Discussion_Feinman_etal_Luduvice_Aug2024.pdf)
+[IIPF](https://www.iipf.org/cng.htm), August 2024 [[slides]](https://avdluduvice.github.io/files/Discussion_Feinman_etal_Luduvice_Aug2024.pdf)
 
 **Universal Basic Income: The Worst Bar of All Others?**   
 *by Luís Guimarães and Diogo Lourenço*    
@@ -19,7 +23,7 @@ System EH Conference, March 2025 [[slides]](https://avdluduvice.github.io/files/
 
 **The Earnings Premium of First-Degree Nepotism in the Chilean Formal Private Sector**   
 *by J. Cortés, J. Días, P. Gutierrez, P. Troncoso, E. Muñoz*    
-[IIPF](https://www.conftool.pro/iipf2023/sessions.php), August 2023 [[slides]](https://avdluduvice.github.io/files/Discussion_Cortes_etal_Luduvice_Aug2023.pdf)
+[IIPF](https://www.iipf.org/cng.htm), August 2023 [[slides]](https://avdluduvice.github.io/files/Discussion_Cortes_etal_Luduvice_Aug2023.pdf)
 
 **Women and Men at Work: Fertility, Occupational Choice, and Development**   
 *by Tiago Cavalcanti, Leticia Fernandes, Laísa Rachter, and Cezar Santos*    
@@ -27,4 +31,4 @@ System EH Conference, March 2025 [[slides]](https://avdluduvice.github.io/files/
 
 **Microssimulation Approaches to Studying Shocks and Social Protection in Developing Economies**   
 *by Kwabena Adu-Ababio*    
-[IIPF](https://www.conftool.pro/iipf2022/sessions.php), August 2022 [[slides]](https://avdluduvice.github.io/files/Discussion_Adu-Ababio_Luduvice_Aug2022.pdf)
+[IIPF](https://www.iipf.org/cng.htm), August 2022 [[slides]](https://avdluduvice.github.io/files/Discussion_Adu-Ababio_Luduvice_Aug2022.pdf)
