@@ -5,6 +5,10 @@ permalink: /discussions/
 author_profile: true
 ---
 
+**The Quiet Revolution and the Decline of Routine Jobs**   
+*by Lindsey Uniat*    
+System EH Conference, April 2026 [[slides]](https://avdluduvice.github.io/files/Discussion_Uniat_Luduvice_April26.pdf)
+
 **Refinancing Student Debt: Borrower Outcomes and Policy Implications**   
 *by Jacob Goss*    
 [MEA](https://mea.sites.grinnell.edu/), March 2026 [[slides]](https://avdluduvice.github.io/files/Discussion_Goss_Luduvice_Mar26.pdf)
