@@ -1,14 +1,19 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Mentoring and Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
+## Mentoring
+
 **Federal Reserve Bank of Cleveland**  
-*Mentorship - Undergraduate and Research Assistants*  
-Panel Discussion - Perspectives on Careers in Economics, Economic Scholars Program, 2025. [[program]](https://www.clevelandfed.org/events/economic-scholars-program/ev-20250421-economic-scholars-2025) [[video]](https://players.brightcove.net/6415806687001/default_default/index.html?videoId=6371938059112)   
+*Dissertation Committees*: member of PhD and Master's Committees (EPGE-FGV/RJ, FEARP-USP)  
+*Research Assistants and Summer Interns*: overseeing and recommending  
+*Panel*: Perspectives on Careers in Economics, Economic Scholars Program, 2025. [[program]](https://www.clevelandfed.org/events/economic-scholars-program/ev-20250421-economic-scholars-2025) [[video]](https://players.brightcove.net/6415806687001/default_default/index.html?videoId=6371938059112)   
    
+## Teaching
+
 **University of Pennsylvania**   
 *Recitation Instructor - Undergraduate*   
 Introduction to Microeconomics - Prof. Rebecca Stein, Spring 2016. [[evaluations]](https://avdluduvice.github.io/files/79004133-2016A.pdf)    
