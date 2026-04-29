@@ -9,7 +9,7 @@ author_profile: true
 
 **Optimal Unemployment Insurance Requirements**,      
 *with [Gustavo de Souza](https://www.gustavodesouza.net/home)*,   
-*Forthcoming, International Economic Review*   
+*International Economic Review*, Volume 67, Issue 2, p. 433-439, 2026.  
 [[paper]](https://doi.org/10.1111/iere.70061) [[WP with Appendix]](https://avdluduvice.github.io/files/deSouza_Luduvice_OptimalUIR_Jan26.pdf) [[Old Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202210r) [[replication files]](https://doi.org/10.3886/E241088V1)
 
 **A Note on Aggregating Preferences for Redistribution**,      
