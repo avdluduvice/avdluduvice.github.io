@@ -10,9 +10,6 @@ main:
     url: /discussions/         
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "CLE Guide"
-    url: /cle_guide/    
+    url: /teaching/      
 
 
