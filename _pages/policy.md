@@ -8,6 +8,13 @@ author_profile: true
 
 ## Economic Commentaries
 
+**How do Consumers View Future Debt? A Primer on Debt-Growth Expectations**,   
+*with [Christopher J. Walker](https://www.clevelandfed.org/people/profiles/w/walker-christopher-j)*      
+August 2026 [[paper]](https://doi.org/10.26509/frbc-ec-202616)
+[[pdf]](https://avdluduvice.github.io/files/EC_Luduvice_Walker_2026.pdf)
+[[appendix]](https://avdluduvice.github.io/files/ec202616_appendices.pdf)
+[[replication files]](https://github.com/avdluduvice/LuduviceWalker_DGE) 
+
 **Did Inflation Affect Households Differently? A Look at the Postpandemic Inflation and Wage Growth Dynamics**,   
 *with [Anaya Truss-Williams](https://www.clevelandfed.org/people/profiles/t/truss-williams-anaya) and [Christopher J. Walker](https://www.clevelandfed.org/people/profiles/w/walker-christopher-j)*      
 October 2025 [[paper]](https://doi.org/10.26509/frbc-ec-202511)
