@@ -12,7 +12,7 @@ author_profile: true
 *with [Christopher J. Walker](https://www.clevelandfed.org/people/profiles/w/walker-christopher-j)*      
 August 2026 [[paper]](https://doi.org/10.26509/frbc-ec-202616)
 [[pdf]](https://avdluduvice.github.io/files/EC_Luduvice_Walker_2026.pdf)
-[[appendix]](https://avdluduvice.github.io/files/ec202616_appendices.pdf)
+[[appendix]](https://avdluduvice.github.io/files/ec202616_appendix.pdf)
 [[replication files]](https://github.com/avdluduvice/LuduviceWalker_DGE) 
 
 **Did Inflation Affect Households Differently? A Look at the Postpandemic Inflation and Wage Growth Dynamics**,   
