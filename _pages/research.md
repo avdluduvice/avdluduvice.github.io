@@ -53,5 +53,8 @@ February 2019 [[current version]](https://avdluduvice.github.io/files/misallocat
 **AI-Augmented Capital-Skill Complementarity**,    
 *with [Roberto Pinheiro](https://sites.google.com/site/rbpinheiro/)*    
 
+**Optimal Intergenerational Policy with and without Government Debt**,    
+*with [Daniel Carroll](https://dcarrollecon.github.io/) and Diego Daruich (https://www.diegodaruich.com/)* 
+
 
 
