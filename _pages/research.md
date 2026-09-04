@@ -37,7 +37,7 @@ author_profile: true
 
 **AI-Augmented Capital-Skill Complementarity**,    
 *with [Roberto Pinheiro](https://sites.google.com/site/rbpinheiro/)* 
-September 2026 [[current version]](https://avdluduvice.github.io/files/LP_AIKORV_Sep26.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202622)  
+August 2026 [[current version]](https://avdluduvice.github.io/files/LP_AIKORV_Aug26.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202622)  
 
 **Minimum Wage, Business Dynamism and the Life Cycle of Firms**,    
 *with [Tomás R. Martínez](https://tomasrm.github.io/) and [Alexandre Sollaci](https://sites.google.com/view/alexandresollaci/home)*,   
