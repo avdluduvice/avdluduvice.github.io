@@ -35,6 +35,10 @@ author_profile: true
 
 ## Working Papers
 
+**AI-Augmented Capital-Skill Complementarity**,    
+*with [Roberto Pinheiro](https://sites.google.com/site/rbpinheiro/)* 
+September 2026 [[current version]](https://avdluduvice.github.io/files/LP_AIKORV_Sep26.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202622)  
+
 **Minimum Wage, Business Dynamism and the Life Cycle of Firms**,    
 *with [Tomás R. Martínez](https://tomasrm.github.io/) and [Alexandre Sollaci](https://sites.google.com/view/alexandresollaci/home)*,   
 March 2024 [[current version]](https://avdluduvice.github.io/files/LMS_MinimumWage_Mar24.pdf) [[IDB WP]](http://dx.doi.org/10.18235/0012849)  
@@ -48,10 +52,7 @@ March 2026 [[current version]](https://avdluduvice.github.io/files/CLY_ManyTaxes
 *with Gustavo Camilo*   
 February 2019 [[current version]](https://avdluduvice.github.io/files/misallocation_Camilo_and_Luduvice_2018.pdf)  
 
-## Work in Progress
-
-**AI-Augmented Capital-Skill Complementarity**,    
-*with [Roberto Pinheiro](https://sites.google.com/site/rbpinheiro/)*    
+## Work in Progress  
 
 **Optimal Intergenerational Policy with and without Government Debt**,    
 *with [Daniel Carroll](https://dcarrollecon.github.io/) and [Diego Daruich](https://www.diegodaruich.com/)* 
