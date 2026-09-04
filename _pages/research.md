@@ -36,7 +36,7 @@ author_profile: true
 ## Working Papers
 
 **AI-Augmented Capital-Skill Complementarity**,    
-*with [Roberto Pinheiro](https://sites.google.com/site/rbpinheiro/)* 
+*with [Roberto Pinheiro](https://sites.google.com/site/rbpinheiro/)*   
 August 2026 [[current version]](https://avdluduvice.github.io/files/LP_AIKORV_Aug26.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202622)  
 
 **Minimum Wage, Business Dynamism and the Life Cycle of Firms**,    
