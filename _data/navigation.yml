@@ -9,7 +9,8 @@ main:
   - title: "Discussions"
     url: /discussions/         
 
-  - title: "Teaching"
+  - title: "Mentoring & Teaching"
+    short_title: "Teaching"
     url: /teaching/    
     
   - title: "CLE Guide"

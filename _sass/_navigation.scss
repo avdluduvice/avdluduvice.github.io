@@ -249,6 +249,19 @@
     }
   }
 
+  /* show the short label (if any) once an item collapses into the drop-down */
+  .nav-title--short {
+    display: none;
+  }
+
+  .hidden-links .nav-title--full {
+    display: none;
+  }
+
+  .hidden-links .nav-title--short {
+    display: inline;
+  }
+
   .hidden-links {
     position: absolute;
     top: 100%;
