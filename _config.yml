@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "André Victor D. Luduvice"
 title_separator          : "-"
 name                     : &name "André Victor Doherty Luduvice"
-description              : &description "personal description"
+description              : &description "André Victor Doherty Luduvice, Research Economist at the Federal Reserve Bank of Cleveland. Research in macroeconomics, public finance, labor economics, and firm dynamics."
 url                      : https://avdluduvice.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "avdluduvice/avdluduvice.github.io"
@@ -124,6 +124,15 @@ include:
   - _pages
   - files
 exclude:
+  - markdown_generator
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - CHANGELOG.md
+  - CONTRIBUTING.md
+  - README.md
+  - package.json
+  - vendor
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
