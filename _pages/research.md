@@ -39,9 +39,9 @@ author_profile: true
 *with [Roberto Pinheiro](https://sites.google.com/site/rbpinheiro/)*   
 August 2026 [[current version]](https://avdluduvice.github.io/files/LP_AIKORV_Aug26.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202622)  
 
-**Minimum Wage, Business Dynamism and the Life Cycle of Firms**,    
+**Minimum Wage, Business Dynamism, and the Life Cycle of Firms**,    
 *with [Tomás R. Martínez](https://tomasrm.github.io/) and [Alexandre Sollaci](https://sites.google.com/view/alexandresollaci/home)*,   
-March 2024 [[current version]](https://avdluduvice.github.io/files/LMS_MinimumWage_Mar24.pdf) [[IDB WP]](http://dx.doi.org/10.18235/0012849)  
+October 2026 [[current version]](https://avdluduvice.github.io/files/LMS_MinimumWage_Oct26.pdf) [[Cleveland Fed WP]](https://doi.org/10.26509/frbc-wp-202635) [[Old IDB WP]](http://dx.doi.org/10.18235/0012849)  
 *Research grant: IDB - Competition in Latin America and the Caribbean*   
 
 **Optimal Fiscal Reform with Many Taxes**, *(submitted)*      
