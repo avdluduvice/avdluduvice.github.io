@@ -33,6 +33,6 @@ System EH Conference, March 2025 [[slides]](https://avdluduvice.github.io/files/
 *by Tiago Cavalcanti, Leticia Fernandes, Laísa Rachter, and Cezar Santos*    
 [LuBraMacro](https://sites.google.com/site/lubramacro), September 2022 [[slides]](https://avdluduvice.github.io/files/Discussion_Cavalcanti_etal_Luduvice_Sept2022.pdf)   
 
-**Microssimulation Approaches to Studying Shocks and Social Protection in Developing Economies**   
+**Microsimulation Approaches to Studying Shocks and Social Protection in Developing Economies**   
 *by Kwabena Adu-Ababio*    
 [IIPF](https://www.iipf.org/cng.htm), August 2022 [[slides]](https://avdluduvice.github.io/files/Discussion_Adu-Ababio_Luduvice_Aug2022.pdf)
